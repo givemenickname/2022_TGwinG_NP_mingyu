@@ -47,8 +47,3 @@ def findDaesun(x1,y1,r1,x2,y2,r2):
         if abs(r1-r2)<d<(r1+r2):
             print(2)
 
-print(findDaesun(0,0,1,0,0,1))
-print(findDaesun(0,0,4,0,0,1))
-print(findDaesun(0,0,1,2,0,1))
-print(findDaesun(1,23,23,6,5,5))
-print(findDaesun(0,0,4,3,0,1))
