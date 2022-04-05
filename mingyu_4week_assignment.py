@@ -83,5 +83,3 @@ def decryption(letter):
     answer = str()
     # your code
     return answer
-
-print(stock_price([-1, -2, -3, -1, -2, -3, -4, -5, -7, +0]))
